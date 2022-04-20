@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pong/Ball
+  - MainMenu/MainMenu
+  - MainMenu/SelectGame
+  - MainMenu/Options
+  - MainMenu/QuitPopup
+  - Pong/Racket/Left
+  - Pong/Racket/Right
+  - Snake/Borders/Top
+  - Snake/Borders/Bottom
+  - Snake/Borders/Left
+  - Snake/Borders/Right
+  - Snake/Food
+  - MainMenu/Settings/VolumeSlider
+  - Pong/Score/Left
+  - Pong/Score/Right
+  - Snake/Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
